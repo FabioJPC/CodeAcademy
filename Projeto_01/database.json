@@ -1,0 +1,139 @@
+[
+    {
+        "brand": "Ford",
+        "model": "Fusion",
+        "year": 2020,
+        "plate": "LKL9O89",
+        "pricePerDay": 299.99,
+        "pricePerMonth": 2999.99,
+        "isAvailable": true,
+        "renter": null,
+        "id": 10000000
+    },
+    {
+        "brand": "Ford",
+        "model": "Fusion",
+        "year": 2021,
+        "plate": "KLK8P98",
+        "pricePerDay": 199.99,
+        "pricePerMonth": 3000,
+        "isAvailable": false,
+        "renter": {
+            "name": "Ana Cordeiro",
+            "phone": "8923465656",
+            "days": 15
+        },
+        "id": 10000001
+    },
+    {
+        "brand": "Chevrolet",
+        "model": "Onix Joy",
+        "year": 2019,
+        "plate": "ABC1D23",
+        "pricePerDay": 90,
+        "pricePerMonth": 2100,
+        "isAvailable": true,
+        "renter": null,
+        "id": 10000002
+    },
+    {
+        "brand": "Chevrolet",
+        "model": "Onix Plus",
+        "year": 2022,
+        "plate": "XYZ4E56",
+        "pricePerDay": 130.5,
+        "pricePerMonth": 3200,
+        "isAvailable": false,
+        "renter": {
+            "name": "Carlos Silva",
+            "phone": "11988887777",
+            "days": 45
+        },
+        "id": 10000003
+    },
+    {
+        "brand": "Fiat",
+        "model": "Uno Mille",
+        "year": 2013,
+        "plate": "MNO5F67",
+        "pricePerDay": 60,
+        "pricePerMonth": 1350,
+        "isAvailable": true,
+        "renter": null,
+        "id": 10000004
+    },
+    {
+        "brand": "Fiat",
+        "model": "Uno Way",
+        "year": "2016",
+        "plate": "QWE7R89",
+        "pricePerDay": 75,
+        "pricePerMonth": 1600,
+        "isAvailable": true,
+        "renter": null,
+        "id": 10000005
+    },
+    {
+        "brand": "Volkswagen",
+        "model": "Gol G8",
+        "year": 2021,
+        "plate": "GOL8G88",
+        "pricePerDay": 110,
+        "pricePerMonth": 2500,
+        "isAvailable": true,
+        "renter": null,
+        "id": 10000006
+    },
+    {
+        "brand": "Volkswagen",
+        "model": "Golf GTI",
+        "year": 2018,
+        "plate": "TUR9O00",
+        "pricePerDay": 350,
+        "pricePerMonth": 6500,
+        "isAvailable": false,
+        "renter": {
+            "name": "Fabio Santos",
+            "phone": "42987654321",
+            "days": 62
+        },
+        "id": 10000007
+    },
+    {
+        "brand": "Toyota",
+        "model": "Corolla",
+        "year": 2023,
+        "plate": "JAP3X21",
+        "pricePerDay": 250,
+        "pricePerMonth": 4800,
+        "isAvailable": true,
+        "renter": null,
+        "id": 10000008
+    },
+    {
+        "brand": "Hyundai",
+        "model": "HB20 Vision",
+        "year": 2020,
+        "plate": "HB20V12",
+        "pricePerDay": 100,
+        "pricePerMonth": 2300,
+        "isAvailable": false,
+        "renter": {
+            "name": "Julia Menezes",
+            "phone": "21977776666",
+            "days": 5
+        },
+        "id": 10000009
+    },
+    {
+        "brand": "Hyundai",
+        "model": "HB20 Evolution",
+        "year": 2022,
+        "plate": "HB20E34",
+        "pricePerDay": 120,
+        "pricePerMonth": 2700,
+        "isAvailable": true,
+        "renter": null,
+        "id": 10000010
+    }
+]
